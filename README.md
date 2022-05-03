@@ -1,6 +1,6 @@
 # Getting Started with Create Vite
 
-This project was bootstrapped with [Create Vite](https://vitejs.dev/guide/#getting-started) using the tamplate [react-ts](https://vitejs.dev/guide/#trying-vite-online).
+This project was bootstrapped with [create vite](https://vitejs.dev/guide/#getting-started) using the tamplate [react-ts](https://vitejs.dev/guide/#trying-vite-online).
 
 ## Available Scripts
 
