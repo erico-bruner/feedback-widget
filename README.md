@@ -18,7 +18,7 @@ You will also see any lint errors in the console.
 
 Builds the app for production to the `build` folder.\
 
-See the section about ["Building for Production"](https://vitejs.dev/guide/build.html#building-for-production) for more information.
+See the section ["Building for Production"](https://vitejs.dev/guide/build.html#building-for-production) for more information.
 
 ## Learn More
 
