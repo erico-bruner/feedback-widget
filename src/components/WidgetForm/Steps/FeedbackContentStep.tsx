@@ -26,7 +26,7 @@ export function FeedbackContentStep({
 
         console.log({
             screenshot,
-            comment
+            comment,
         })
 
         onFeedbackSent()

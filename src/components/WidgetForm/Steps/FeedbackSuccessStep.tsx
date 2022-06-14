@@ -1,4 +1,3 @@
-import { ArrowLeft } from "phosphor-react";
 import { CloseButton } from "../../CloseButton";
 
 interface FeedbackSuccessStepProps {
@@ -28,9 +27,7 @@ export function FeedbackSuccessStep({onFeedbackRestartRequested}:FeedbackSuccess
                     Quero enviar outro
                 </button>
                 </div>
-                
            </div>
-           
         </>
     )
 }

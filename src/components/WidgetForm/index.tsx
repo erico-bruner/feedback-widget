@@ -1,5 +1,3 @@
-import { CloseButton } from "../CloseButton";
-
 import bugImageUrl from '../../assets/bug.svg'
 import ideaImageUrl from '../../assets/idea.svg'
 import thoughtImageUrl from '../../assets/thought.svg'
@@ -40,7 +38,8 @@ export function WidgetForm() {
     const [feedbackSent, setFeedbackSent] = useState(false)
 
     function handleRestartFeedback() {
-        setFeedbackType(null)
+        setFeedbackSent(false);
+        setFeedbackType(null);
     }
 
     return (
